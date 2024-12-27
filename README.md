@@ -137,11 +137,6 @@ https://v6.exchangerate-api.com/v6/<API_KEY>/pair/USD/EUR
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ## Acknowledgments
 - **Exchange Rate API**: For providing real-time currency data.
 - **Dialogflow**: For NLP capabilities.
