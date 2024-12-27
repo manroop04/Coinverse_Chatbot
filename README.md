@@ -142,3 +142,6 @@ https://v6.exchangerate-api.com/v6/<API_KEY>/pair/USD/EUR
 - **Dialogflow**: For NLP capabilities.
 - **Telegram**: For creating an interactive chatbot interface.
 
+  ![image](https://github.com/user-attachments/assets/38495c56-2859-47f6-b1b6-09a451c984f3)
+
+
